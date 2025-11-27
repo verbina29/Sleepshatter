@@ -1,0 +1,27 @@
+[flavor_groups.shaders]
+name = "Shaders?"
+description = "Shaders make the game prettier with fancier lighting."
+side = "client"
+[[flavor_groups.shaders.choices]]
+id = "complementary"
+name = "Complementary Reimagined"
+description = "Install Oculus, Complementary Reimagined, and Euphoria Patches."
+[[flavor_groups.shaders.choices]]
+id = "oculus"
+name = "No Pre-Installed Shaderpack"
+description = "Install only Oculus, providing support for most shaderpacks. If you choose to install Complementary, you can still select different shaderpacks."
+[[flavor_groups.shaders.choices]]
+id = "no_shaders"
+name = "No Shaders"
+description = "Don't install any shader mods or shaderpacks."
+
+[metafile.oculus]
+flavors = ["complementary", "oculus"]
+[metafile.colorwheel]
+flavors = ["complementary", "oculus"]
+[metafile.colorwheel-patcher]
+flavors = ["complementary", "oculus"]
+[metafile.complementary-reimagined]
+flavors = ["complementary"]
+[metafile.euphoria-patches]
+flavors = ["complementary"]

@@ -146,6 +146,16 @@ hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "4439021f1e0b5031684092f70ba9be94e1e63e3e26f9a5d840c3164206ca0980"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "448d1765626057af43637f06aea9cdb851ea6b71c5f84a9753a4df28b97b6464"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
@@ -321,6 +331,11 @@ hash = "bd2b62e4397f57220ddf4d862b5c6d87de3192b4ff4da14e9f5d00029ed13c48"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "866b92f2599f2e4058db0fd4583870ace1ad9063e8d3bc71407d3d239bcd1243"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "c783397b906ea36009a01d839b3aee0494ea60dc23055bd1413167ef91d3f963"
 metafile = true
@@ -343,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "7b411f636c4a61db20882904e79625750ff1230c83763a0a426c04a8bbf8d7f1"
+metafile = true
+
+[[files]]
+file = "mods/flw-vanillin.pw.toml"
+hash = "c9a9a660c0887f3f218a4dbfedb20d4ddf1f1c72b07e6575da3fb2902019a56b"
 metafile = true
 
 [[files]]
@@ -803,4 +823,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/arids-immersive-resprites.pw.toml"
 hash = "49ea030c9db88ab47c743ab5f09486ad5cc35dba317efcd6b7046f10b7410e61"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
