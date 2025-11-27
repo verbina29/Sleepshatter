@@ -155,21 +155,6 @@ hash = "b41d7840b9f1ed94b2027eb2d066c6d130fb0f3bb7278cf2a78ff0f689f94b33"
 metafile = true
 
 [[files]]
-file = "mods/create-connected.pw.toml"
-hash = "aa8711ff3f1d590b8c3e4e092927e5a697d585e21c52107ddc559c93ffebdaed"
-metafile = true
-
-[[files]]
-file = "mods/create-crystal-clear.pw.toml"
-hash = "5d17be4c20a28f9e28a5a22e2e185b6d3131d81c916bc7cd133c3a8fdec4b184"
-metafile = true
-
-[[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "db975ac6f7723fa6230f64ce45b0986774437c4429237f62299e3de71b32b372"
-metafile = true
-
-[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "3bf41d0d0195845c1633219fc48531d5ba4d8d7516cec2a63ee75b04da2f01b2"
 metafile = true
@@ -322,11 +307,6 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "ce198cf0e4ac56f35c03b5e721eacbd6c6bc86b6ab318c4c7259082edb625fc2"
-metafile = true
-
-[[files]]
-file = "mods/extended-cogwheels.pw.toml"
-hash = "151d38474b08a1e370f8820dae5b167971eb9a5f3552823c838a76dd3ab3e1d4"
 metafile = true
 
 [[files]]
