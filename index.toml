@@ -5,8 +5,20 @@ file = "config/DistantHorizons.toml"
 hash = "d4a972aae182d596ba06711590e7c6eeee22e61c8fdb6e29f745cb43d4ca4a5a"
 
 [[files]]
+file = "config/bocchud.json"
+hash = "a5ffad5358b43c84d2148906082d1e9e9b18ab78506309ffb87d96b060b4473e"
+
+[[files]]
 file = "config/createtweakedcontrollers-client.toml"
 hash = "c060585b3da07bc22c23910766345f7d5847d0fb682faeecd9c7bb6db6436406"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "117f6b621025b8e209119e79c868b93f8aa9ee7fea566efcc83caa23da212ec6"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "3c643c7192a93e0cc118d2885660c8870b65275fd84085ceceff93e8ac9f0a20"
 
 [[files]]
 file = "config/emi.css"
@@ -365,11 +377,6 @@ hash = "3aa4d2e503b7a4544868954aa8175335ee34714a8b44cc2a41cdbb833e271c31"
 metafile = true
 
 [[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "ac7cae24fcac0183430f948d4a3827bb30bb086e5d94f4a255afc5dfd6713371"
-metafile = true
-
-[[files]]
 file = "mods/immersive-weathering-+-farmers-delight-bark-stripping.pw.toml"
 hash = "75502fe8357a7b0b9186289bc703f57ef4049fff6f9c70e7bbfde28162377388"
 metafile = true
@@ -650,11 +657,6 @@ hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "7f38bb5c863c04b013a2c6ed75d799525ba3cc5a548279adde6e9329ff308dd4"
-metafile = true
-
-[[files]]
 file = "mods/serializationisbad.pw.toml"
 hash = "0e523af204e86543bd07267761b2ffedbd78dd77422fe6ef47e62891d7e3dcc9"
 metafile = true
@@ -793,10 +795,6 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "20bc36f767b4a46ddc7bc23128e5aaa55d9080a459cce90ff7da479a142d4ad9"
 
 [[files]]
 file = "resourcepacks/arids-immersive-resprites.pw.toml"
