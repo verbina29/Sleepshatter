@@ -9,8 +9,12 @@ file = "config/bocchud.json"
 hash = "a5ffad5358b43c84d2148906082d1e9e9b18ab78506309ffb87d96b060b4473e"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "99f40f2e670848aaa1c423356818dddfb02c958d6303a5738877f65720a63e78"
+
+[[files]]
 file = "config/createtweakedcontrollers-client.toml"
-hash = "c060585b3da07bc22c23910766345f7d5847d0fb682faeecd9c7bb6db6436406"
+hash = "186174f71d28a3df1bd1e9850f7ace349886628f1ce6354f0adb9a92bdd1633e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -38,7 +42,7 @@ hash = "0110859f3d121f8366eef40378587f10097d2b894d6ebc528ceb7c56c0d0f8b3"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "16a238441229e79ce87567f2f54c7c006ab8cb00006741826f6419d107199fea"
+hash = "52f93be1a4470c7707060c677fb8c9288dba438d63500484d363a8e8b22ff4ba"
 
 [[files]]
 file = "config/structurify.json"
