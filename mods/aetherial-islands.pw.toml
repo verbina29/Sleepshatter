@@ -1,0 +1,13 @@
+name = "Aetherial Islands"
+filename = "aetherial-islands-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CHh9WEKT/versions/PoXVuD1q/aetherial-islands-2.0.1.jar"
+hash-format = "sha512"
+hash = "b5fd6d83ea178091d7219f5f69414644e6151ea9b43847a415fe0c20b3bf48b26a0bce870058b5c1bec859454c5543216fd7c6e0c1b2551cc9bd9c744107993b"
+
+[update]
+[update.modrinth]
+mod-id = "CHh9WEKT"
+version = "PoXVuD1q"

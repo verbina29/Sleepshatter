@@ -1,0 +1,13 @@
+name = "Immersive Weathering + Farmer's Delight: Bark Stripping"
+filename = "farmersdelight_immersive_weathering_cutting_compat.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pTyR3rHq/versions/Jd06oseB/farmersdelight_immersive_weathering_cutting_compat.zip"
+hash-format = "sha512"
+hash = "a4fcdf718d60c1f8e988edf8f430668c261d6e9309f69bdd7d687c129a81425cd29e85583bbdc4a533de7c468de7689b3cdfd76a1c8e06ac29a83c7b2ba9eec6"
+
+[update]
+[update.modrinth]
+mod-id = "pTyR3rHq"
+version = "Jd06oseB"

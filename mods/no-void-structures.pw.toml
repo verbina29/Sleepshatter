@@ -1,0 +1,13 @@
+name = "No Void Structures"
+filename = "no-void-structures-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iWMeHtdv/versions/L0bKShzg/no-void-structures-2.0.1.jar"
+hash-format = "sha512"
+hash = "ecca6c9d81bc10f60074069952982f9406f904c1db0f618db7f903f48fb6bc7d456db8652ff4534fef0aa66ff582f22ff36ee11e7b3ae336726bca2f1f3a1c91"
+
+[update]
+[update.modrinth]
+mod-id = "iWMeHtdv"
+version = "L0bKShzg"
