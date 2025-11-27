@@ -1,6 +1,46 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "d4a972aae182d596ba06711590e7c6eeee22e61c8fdb6e29f745cb43d4ca4a5a"
+
+[[files]]
+file = "config/emi.css"
+hash = "47f7c76343a3d1cfd5da3848c9eca6e5aeeeb254b6d4e655a09a3fb3e367f8ea"
+
+[[files]]
+file = "config/figura.json"
+hash = "7586190cc067bc6083d9da0e61e40e44fbb733cc646e877ceb9bff383be819db"
+
+[[files]]
+file = "config/inventoryhud-client.toml"
+hash = "5a24ac72624545c4a4bbe76b63d943b208e290a6d80ed6d7f679302e53d013cc"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "0110859f3d121f8366eef40378587f10097d2b894d6ebc528ceb7c56c0d0f8b3"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "16a238441229e79ce87567f2f54c7c006ab8cb00006741826f6419d107199fea"
+
+[[files]]
+file = "config/structurify.json"
+hash = "d228fa6e7d2029c8aa5be89dd03cb8abc03c8b4f452f451c84118e086f3539b9"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "06baaa205d22b073cfd69b5178c0d9e316f9ce11f2d51172850dc2dcd82c32a9"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "ae7ed5b60d1baf79a7fe78eac74f91d669a8d81be6c8d2d2838b3941512fe28c"
+
+[[files]]
+file = "config/ysns/disabled_entities.json5"
+hash = "8c0dc3f4a94f88c6cb072c24d5b0acab42079523a47c8e4d6cff21e26b37d13e"
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "8f2c476f0d8ab97f80e9068b5cd85b6e0261013096feba1e797c02f0d97f2657"
 metafile = true
