@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "d4a972aae182d596ba06711590e7c6eeee22e61c8fdb6e29f745cb43d4ca4a5a"
 
 [[files]]
+file = "config/createtweakedcontrollers-client.toml"
+hash = "c060585b3da07bc22c23910766345f7d5847d0fb682faeecd9c7bb6db6436406"
+
+[[files]]
 file = "config/emi.css"
 hash = "47f7c76343a3d1cfd5da3848c9eca6e5aeeeb254b6d4e655a09a3fb3e367f8ea"
 
@@ -799,6 +803,10 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "20bc36f767b4a46ddc7bc23128e5aaa55d9080a459cce90ff7da479a142d4ad9"
 
 [[files]]
 file = "resourcepacks/arids-immersive-resprites.pw.toml"
