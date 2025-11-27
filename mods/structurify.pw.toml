@@ -1,0 +1,13 @@
+name = "Structurify"
+filename = "structurify-forge-2.0.7b+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yz7AM2zx/versions/Vt5m7HEd/structurify-forge-2.0.7b%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "78be53b073c68a38c89d76bbfe7f896c655f6baa89b7407e28005c684d8381cd370393853ac85b16130612aaa905f472a916c7530ef75fd8cf1f4e9e590dbb2f"
+
+[update]
+[update.modrinth]
+mod-id = "yz7AM2zx"
+version = "Vt5m7HEd"
