@@ -46,7 +46,7 @@ hash = "52f93be1a4470c7707060c677fb8c9288dba438d63500484d363a8e8b22ff4ba"
 
 [[files]]
 file = "config/structurify.json"
-hash = "d228fa6e7d2029c8aa5be89dd03cb8abc03c8b4f452f451c84118e086f3539b9"
+hash = "455b6c1e24acd25d730ce41beaf29efb4dc390a6bdf4ba760384a422ee6d5058"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -58,7 +58,7 @@ hash = "ae7ed5b60d1baf79a7fe78eac74f91d669a8d81be6c8d2d2838b3941512fe28c"
 
 [[files]]
 file = "config/ysns/disabled_entities.json5"
-hash = "8c0dc3f4a94f88c6cb072c24d5b0acab42079523a47c8e4d6cff21e26b37d13e"
+hash = "dbae28f24f14918f6b7439e116524170da4d6567648afe24d78d0288353bff14"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
@@ -829,3 +829,7 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "a93994f1691621696ec4c3d4b005688b027b5b659859dfa87b104cec1e1fdb20"
