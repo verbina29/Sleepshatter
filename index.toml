@@ -766,11 +766,6 @@ hash = "16df875d4c8a6e2394556ab78ae8fa932078e32713d3d948861e7245adc98db7"
 metafile = true
 
 [[files]]
-file = "mods/vsplit.pw.toml"
-hash = "6c2c380b3ebb685c1bcd1ccf29b1b5cf4bfdb14f520661b33a0520993cad7d1b"
-metafile = true
-
-[[files]]
 file = "mods/wakes-reforged.pw.toml"
 hash = "cdf96d2efae46e980ca91d7ddd6747dd262d034c6318a48132c0d0d00080a6e2"
 metafile = true
